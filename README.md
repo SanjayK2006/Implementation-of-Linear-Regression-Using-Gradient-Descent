@@ -66,9 +66,6 @@ theta=linear_regression(x1_Scaled,y1_Scaled)
 ![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/772c1974-1a09-4eb8-ab74-08994d08db09)
 ![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/e8611d63-8fa5-476b-b098-27768c7257b7)
 ![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/98da229e-54ea-4773-866c-934082d8b6ad)
-![image](https://github.com/SanjayBalaji0/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145533553/006dfdcb-88cb-4747-bc72-3e778bd7d8ef)
-
-
 
 
 ## Result:
